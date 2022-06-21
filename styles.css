@@ -161,6 +161,7 @@ aside .sidebar a{
 
 aside .sidebar a span{
     font-size: 1.6rem;
+    transition: all 300ms ease;
 }
 
 aside .sidebar a.active{
